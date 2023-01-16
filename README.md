@@ -27,26 +27,26 @@
 ![Saga_002](https://user-images.githubusercontent.com/87578863/212677347-6f883f25-4e26-4619-a4c0-c39422584d78.PNG)
 
 
-# 📱 Fiche détaillée :
+## 📱 Fiche détaillée :
 \
 ![godofwar](https://user-images.githubusercontent.com/87578863/212679198-70d5546d-7644-426b-ae8f-c0325ea36b61.PNG)
 
-# 📱 Parcourir les jeux :
+## 📱 Parcourir les jeux :
 \
 ![Saga_003](https://user-images.githubusercontent.com/87578863/212677353-9b50fa02-0e3f-42b3-9129-ffa1cb32a092.PNG)
 
-# 📱 Panier :
+## 📱 Panier :
 \
 ![Saga_004](https://user-images.githubusercontent.com/87578863/212677356-8da1fc1d-017d-4535-8ff3-19178d54b998.PNG)
 
-# 📱 Menu :
+## 📱 Menu :
 \
 ![Saga_005](https://user-images.githubusercontent.com/87578863/212677360-5d60079f-8dda-482c-b936-77db90f7b3ce.PNG)
 
-# 📱 Page admin :
+## 📱 Page admin :
 \
 ![Saga_006](https://user-images.githubusercontent.com/87578863/212677365-11b7436e-c17e-497d-a66d-d880ba7cf6f3.PNG)
 
-# 📱 Panier vide :
+## 📱 Panier vide :
 \
 ![Saga_007](https://user-images.githubusercontent.com/87578863/212677375-25b6d04f-ade5-406a-8481-98a22113522a.PNG)
