@@ -10,8 +10,8 @@
 
 👉 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭eu𝐫 : Nicolas Lépinay.
 
-Page d'accueil :\\
-
+Page d'accueil :\
+\
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87578863/212677885-9a1db919-ea34-4281-81ff-0a5af214ef5e.gif)
 
 Création d'un nouveau jeu avec scan de code-barre :\
@@ -19,7 +19,7 @@ Création d'un nouveau jeu avec scan de code-barre :\
 
 Page d'accueil :\
 ![Saga_002](https://user-images.githubusercontent.com/87578863/212677347-6f883f25-4e26-4619-a4c0-c39422584d78.PNG)
-
+\
 Fiche détaillée :\
 ![godofwar](https://user-images.githubusercontent.com/87578863/212679198-70d5546d-7644-426b-ae8f-c0325ea36b61.PNG)
 
