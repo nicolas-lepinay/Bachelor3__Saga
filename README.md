@@ -16,9 +16,13 @@
 
 📱 Création d'un nouveau jeu avec scan de code-barre :\
 \
-![Saga_001](https://user-images.githubusercontent.com/87578863/212677337-4e3b35b2-b839-4630-a431-7243d0e9b352.PNG)
-
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/87578863/212680922-f3bbcfc2-965d-4fba-bc9f-d237b3b612ba.gif)
+\
+--------------------------------------------------------
+\
 📱 Page d'accueil :\
+\
+![Saga_001](https://user-images.githubusercontent.com/87578863/212677337-4e3b35b2-b839-4630-a431-7243d0e9b352.PNG)
 \
 ![Saga_002](https://user-images.githubusercontent.com/87578863/212677347-6f883f25-4e26-4619-a4c0-c39422584d78.PNG)
 \
