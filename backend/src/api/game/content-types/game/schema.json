@@ -1,0 +1,64 @@
+{
+  "kind": "collectionType",
+  "collectionName": "games",
+  "info": {
+    "singularName": "game",
+    "pluralName": "games",
+    "displayName": "Game",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Unknown",
+      "required": false,
+      "unique": false
+    },
+    "developer": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "secret_key": {
+      "type": "uid"
+    },
+    "price": {
+      "type": "decimal",
+      "required": false,
+      "default": 99.99
+    },
+    "release_date": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "image_url": {
+      "type": "string"
+    }
+  }
+}

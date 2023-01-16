@@ -1,0 +1,113 @@
+// Hide scrollbar for Chrome, Safari and Opera
+ion-content::part(scroll)::-webkit-scrollbar {
+    display: none;
+}
+    
+// Hide scrollbar for IE, Edge and Firefox
+ion-content::part(scroll) {
+    -ms-overflow-style: none; // IE and Edge
+    scrollbar-width: none; // Firefox
+}
+
+// Without setting height the slides will take up the height of the slide's content
+ion-slides {
+    height: 90%;
+}
+
+ion-menu {
+    // --background: var(--menu-background);
+    --background: rgba(255, 255, 255, 0.3);
+    --color: white;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    --box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    --border-color: rgba(255, 255, 255, 0.18);
+    --border-width: 2px 0;
+  
+    --padding-top: 5px;
+    --padding-bottom: 5px;
+}
+
+ion-content {
+    --background: radial-gradient(circle at 52.1% -29.6%, rgb(65, 53, 92) 0%, rgb(28, 28, 32) 100.2%);
+    &.menu {
+        --background: radial-gradient(circle at 52.1% -29.6%, rgba(65, 53, 92, 0.7) 0%, rgba(28, 28, 32, 0.7) 100.2%);
+        --color: white;
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        border-right: 1px solid rgba(122, 122, 122, 0.18);
+    }
+}
+
+ion-toolbar {
+    &.glassmorphism {
+        --background: rgba(255, 255, 255, 0.3);
+        --color: white;
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        --box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        --border-color: rgba(255, 255, 255, 0.18);
+        --border-width: 2px 0;
+      
+        --padding-top: 5px;
+        --padding-bottom: 5px;
+    }
+
+    &.transparent {
+        --background: transparent;
+        --color: white;
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        --box-shadow: none;
+        --border-color: unset;
+        --border-width: 0;
+        
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+    }
+
+    &.bg-dark {
+        --background: rgba(40, 40, 40, 1);
+        --color: white;
+    }
+}
+
+ion-searchbar.searchbar {
+    --background: rgb(55, 54, 63);
+    --color: #fff;
+    --placeholder-color: #fff;
+    --icon-color: #fff;
+    --clear-button-color: #fff;
+    --box-shadow: none;
+    --border-radius: 50px;
+  }
+
+ion-button {
+    --color: white;
+    &.gradient {
+        --background: linear-gradient(160deg, rgba(72, 65, 254) 20%, rgba(173, 71, 254) 95%);
+    }
+    &.gradient.disabled {
+        --background: linear-gradient(160deg, rgb(73, 73, 73) 20%, rgb(170, 170, 170) 95%);
+    }
+}
+
+ion-card {
+    &.transparent {
+        --background: transparent;
+    }
+
+    &.dark-glassmorphism {
+        --background: rgba(0, 0, 0, 0.3);
+        --color: white;
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        --box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        --border-color: rgba(255, 255, 255, 0.18);
+        --border-width: 2px 0;
+    }
+}
+
+ion-datetime {
+    --background: transparent;
+}
